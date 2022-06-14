@@ -6,6 +6,9 @@ Microsoft ecosystem and larger humanitarian community, pingable database and usa
 
 ## Primary deliverables
 
-Position database and resources for HDC and Center for Humanitarian Data, carry out work needed to setup and reach a stage suitable for partnership and usage, similar to OpenAI in a way.
+Position database and resources for HDC and Center for Humanitarian Data, carry out work needed to setup and reach a stage suitable for partnership and usage, similar to OpenAI in a way. Collaborate with IATI, draw data from IATI api helping to generate demand and usage feedback, strenghten ties between IATI and HDX and search traversability.
 
 ## Primary activities
+
+* Begin accumulating and storing data
+* Work on tacklig database backend
