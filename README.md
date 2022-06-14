@@ -14,3 +14,4 @@ Position database and resources for HDC and Center for Humanitarian Data, carry 
 * Work on tacklig database backend
 * Engage with IATI, experiment with data sourcing and updating
 * Egage HDX, create some datasets to publish
+* Mockup an IATI interface and query interface
