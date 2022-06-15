@@ -1,4 +1,6 @@
-# openiatiroux
+# OpenIATI
+
+Open IATI is a **Microsoft** supported research initiative managed by Northeastern University's [Roux Institue]() in Portland, Maine. The initiative provides students and volunteers with an opportunity to research and evaluate ways humanitarian aid activity data can be stored for use in the AI Age.
 
 ## Primary Goals
 
