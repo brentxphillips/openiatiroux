@@ -1,6 +1,6 @@
 # Open IATI
 
-Open IATI is a **Microsoft** supported research initiative managed by Northeastern University's [Roux Institue]() in Portland, Maine. The initiative provides students and volunteers with an opportunity to research and evaluate ways humanitarian aid activity information streaming through open data sharing frameworks like **IATI** can be stored for use in the AI Age.
+Open IATI is a **Microsoft** supported research initiative managed by **Northeastern University's** [Roux Institue]() in Portland, Maine. The initiative provides students and volunteers with an opportunity to research and evaluate ways humanitarian aid activity information streaming through open data sharing frameworks like **IATI** can be stored for use in the AI Age.
 
 ## Primary Goals
 
