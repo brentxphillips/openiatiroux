@@ -1,8 +1,12 @@
 # Open IATI
 
-Open IATI is a **Microsoft** supported research initiative managed by **Northeastern University's** [Roux Institue]() in Portland, Maine. The initiative provides students and volunteers with an opportunity to research and evaluate ways humanitarian aid activity information streaming through open data sharing frameworks like **IATI** can be stored for use in the AI Age.
+Open IATI is a **Microsoft** supported research initiative managed by **Northeastern University's** [Roux Institue]() in Portland, Maine. The initiative provides Northeastern students and volunteers with an opportunity to help research and evaluate ways humanitarian aid activity information streaming through open data sharing frameworks like **IATI** can be stored for use in the AI Age.
 
-## Primary Goals
+## Project
+
+Emerging artificial intelligent applications and virtual assistants like Siri, Alexa and Cortana rely on sophisticated question answering machine learning models to process and answer complex queries. Trained using billions of parameters, transformer-based neural language models for dialogue like Google's LaMDA are able to maintain a conversation on a wide range of topics, demonstrating how in the future humanitarian actors can interact with AI applications.
+
+The Open IATI initiative will use data streaming through open data sharing frameworks used by humanitarian and development organizations, donors and government agencies will generate resouces needed to fine-tune question answering machine learning models able to answer queries posed by humanitarian actors and help setup backend architecture needed to power AI for Good applications.
 
 Microsoft ecosystem and larger humanitarian community, pingable database and usable resources for training and testing. Basis for a proposed reporting app. Node for Sy iitiative. Needs of machine lerning models will require interaction and work, suitable for students... establish basis for a place o turn to , a node.
 
